@@ -1,0 +1,135 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form .form-group {
+  margin-bottom: 15px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form input, form textarea, form select {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.assignment-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #fafafa;
+}
+
+.assignment-card.completed {
+  background-color: #d4edda;
+  border-left: 5px solid green;
+}
+
+.priority-low {
+  color: green;
+}
+
+.priority-medium {
+  color: orange;
+}
+
+.priority-high {
+  color: red;
+}
+
+.assignment-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.assignment-actions button {
+  margin-right: 10px;
+  background-color: #6c757d;
+}
+
+.assignment-actions button:hover {
+  background-color: #5a6268;
+}
+
+.filters {
+  margin-bottom: 10px;
+}
+
+.filter-btn {
+  margin-right: 5px;
+  padding: 5px 10px;
+  background-color: #e2e6ea;
+  border: none;
+  border-radius: 4px;
+}
+
+.filter-btn.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.study-block {
+  background-color: #fff3cd;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-left: 5px solid #ffc107;
+}
+
+.calendar-container {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.calendar-container div {
+  padding: 10px;
+  background-color: #f8f9fa;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.badge {
+  background-color: #ffeeba;
+  padding: 10px;
+  border-left: 5px solid gold;
+  margin-top: 10px;
+  font-weight: bold;
+}

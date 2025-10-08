@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hackathon Assignment Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📚 Assignment Tracker</h1>
+      <p>Never miss a deadline again!</p>
+    </header>
+
+    <section class="add-assignment">
+      <h2>Add New Assignment</h2>
+      <form id="assignmentForm">
+        <div class="form-group">
+          <label for="subject">Subject:</label>
+          <input type="text" id="subject" required />
+        </div>
+        <div class="form-group">
+          <label for="description">Description:</label>
+          <textarea id="description" required></textarea>
+        </div>
+        <div class="form-group">
+          <label for="deadline">Deadline:</label>
+          <input type="datetime-local" id="deadline" required />
+        </div>
+        <div class="form-group">
+          <label for="priority">Priority:</label>
+          <select id="priority">
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+          </select>
+        </div>
+        <button type="submit">Add Assignment</button>
+      </form>
+    </section>
+
+    <section class="assignments-list">
+      <h2>Your Assignments</h2>
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="pending">Pending</button>
+        <button class="filter-btn" data-filter="completed">Completed</button>
+      </div>
+      <div id="assignmentsContainer" class="assignments-container"></div>
+    </section>
+
+    <section class="study-schedule">
+      <h2>📅 Suggested Study Schedule</h2>
+      <div id="studySchedule" class="schedule-container"></div>
+    </section>
+
+    <section class="calendar-view">
+      <h2>🗓 Calendar</h2>
+      <div id="calendarView" class="calendar-container"></div>
+    </section>
+
+    <section class="progress-tracking">
+      <h2>📊 Progress</h2>
+      <div class="progress-stats">
+        <div>Total Assignments: <span id="totalCount">0</span></div>
+        <div>Pending: <span id="pendingCount">0</span></div>
+        <div>Completed: <span id="completedCount">0</span></div>
+      </div>
+      <div id="badges" class="badges-container"></div>
+    </section>
+  </div>
+</body>
+</html>
