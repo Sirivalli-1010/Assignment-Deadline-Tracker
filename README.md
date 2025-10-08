@@ -109,22 +109,22 @@
 ---
 
 ## 🌐 Deployment
-🔗 [https://sirivalli-1010.github.io/Assignment-Deadline-Tracker/]
+🔗 [https://sirivalli-1010.github.io/Assignment-Deadline-Tracker/](#)
 
 ---
 
 ## 📚 References
-MDN Web Docs – JavaScript
+  ➤MDN Web Docs – JavaScript
 
-W3Schools – HTML/CSS/JS
+  ➤W3Schools – HTML/CSS/JS
 
-Flaticon – Notification Icons
+  ➤Flaticon – Notification Icons
 
 ---
 
 ## 🖼 Assets / Screenshots
 <p align="center">
- ![image alt](https://github.com/Sirivalli-1010/Assignment-Deadline-Tracker/blob/main/Screenshot2.jpg?raw=true)
+ ![ALT text](https://github.com/Sirivalli-1010/Assignment-Deadline-Tracker/blob/main/Screenshot2.jpg?raw=true)
 </p>
 
 ---
