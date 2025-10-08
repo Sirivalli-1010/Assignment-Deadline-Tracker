@@ -124,7 +124,7 @@
 
 ## 🖼 Assets / Screenshots
 <p align="center">
- ![ALT text](https://github.com/Sirivalli-1010/Assignment-Deadline-Tracker/blob/main/Screenshot2.jpg?raw=true)
+ ![ALT text](https://github.com/Sirivalli-1010/Assignment-Deadline-Tracker/blob/main/assests/screenshot1.jpg?raw=true)
 </p>
 
 ---
