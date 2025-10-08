@@ -104,7 +104,7 @@
 ---
 
 ## 📹 Demonstration Video
-▶ [https://youtu.be/u_q35daofNg?si=lbCOEjfW3KaUKOLu](#)
+▶ [https://youtu.be/VvqUnLKQip0?si=tZM3Tg_7X1PtGT8j](#)
 
 ---
 
