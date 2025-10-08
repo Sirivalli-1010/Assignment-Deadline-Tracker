@@ -104,12 +104,12 @@
 ---
 
 ## 📹 Demonstration Video
-▶ [YouTube / Google Drive Link](#)
+▶ [https://youtu.be/u_q35daofNg?si=lbCOEjfW3KaUKOLu](#)
 
 ---
 
 ## 🌐 Deployment
-🔗 [Live Demo Link](#)
+🔗 [https://sirivalli-1010.github.io/Assignment-Deadline-Tracker/]
 
 ---
 
