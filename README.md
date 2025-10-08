@@ -124,8 +124,7 @@ Flaticon – Notification Icons
 
 ## 🖼 Assets / Screenshots
 <p align="center">
-  <img src="assets/project_logo.png" alt="Application Screenshot" width="220" /><br/>
-  <img src="assets/screenshot1.png" alt="Application Screenshot" width="600" />
+ ![image alt]()
 </p>
 
 ---
