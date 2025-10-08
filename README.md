@@ -124,7 +124,7 @@ Flaticon – Notification Icons
 
 ## 🖼 Assets / Screenshots
 <p align="center">
- ![image alt](https://github.com/Sirivalli-1010/Assignment-Deadline-Tracker/blob/64d313dc867b28feb3c1f4401e3e6e87b24a6752/screenshot1.jpg)
+ ![image alt](https://github.com/Sirivalli-1010/Assignment-Deadline-Tracker/blob/main/Screenshot2.jpg?raw=true)
 </p>
 
 ---
